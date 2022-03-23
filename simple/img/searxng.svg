@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="286mm"
+   height="60.000011mm"
+   viewBox="0 0 286 60.000011"
+   version="1.1"
+   id="svg1025"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="wordmark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1027"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69130191"
+     inkscape:cx="507.01437"
+     inkscape:cy="348.61758"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1022">
+    <rect
+       x="316.50403"
+       y="307.2663"
+       width="487.13824"
+       height="291.42789"
+       id="rect5357" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient40"
+       id="linearGradient17722"
+       x1="88.822601"
+       y1="967.55994"
+       x2="1846.2988"
+       y2="967.55994"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.04303004,0,0,0.04303004,-9.5639415,29.972483)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient40">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1"
+         offset="0"
+         id="stop17715" />
+      <stop
+         style="stop-color:#c837ab;stop-opacity:1"
+         offset="1"
+         id="stop17717" />
+    </linearGradient>
+    <rect
+       x="43.436752"
+       y="23.679756"
+       width="381.11652"
+       height="452.03146"
+       id="rect52" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1757"
+       transform="matrix(0.80201934,0,0,0.80201934,4.2790627,-27.429894)">
+      <path
+         id="path34"
+         style="fill:url(#linearGradient17722);fill-opacity:1;fill-rule:evenodd;stroke:#000001;stroke-width:1.62633;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:transform-center-x="8.3648377"
+         inkscape:transform-center-y="-3.1195461"
+         d="M 57.164643,35.014139 26.32118,57.989667 -4.5222831,80.96527 32.070147,94.582182 68.662658,108.19908 62.913694,71.606572 Z" />
+      <text
+         xml:space="preserve"
+         id="text50"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:246.944px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light';white-space:pre;shape-inside:url(#rect52);fill:#487cff;fill-opacity:1;stroke:#000001;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         transform="matrix(0.32526647,0,0,0.32526647,-14.630387,21.245229)"><tspan
+           x="43.4375"
+           y="239.75569"
+           id="tspan25696"><tspan
+             style="font-weight:500;-inkscape-font-specification:'Source Code Pro Medium'"
+             id="tspan25694">R</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5355"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5357);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.284256"
+       y="48.938385"
+       id="text5737"><tspan
+         sodipodi:role="line"
+         id="tspan5735"
+         style="font-size:50.8px;stroke-width:0.264583"
+         x="68.284256"
+         y="48.938385">risiSearx</tspan></text>
+  </g>
+</svg>
